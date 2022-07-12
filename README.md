@@ -21,5 +21,6 @@ $ git clone https://github.com/kumar-sanjeeev/cartpole-v1-policyGradient.git
 ```
 2. Install the dependencies by running `requirements.txt` file
 ```shell
+$ cd src/
 $ pip install -r requirements.txt
 ```
